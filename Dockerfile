@@ -13,7 +13,8 @@ RUN set -ex; \
       x11vnc \
       xterm \
       xvfb \
-      firefox-esr
+      firefox-esr \
+      fonts-vlgothic
 
 # Setup demo environment variables
 ENV HOME=/root \
