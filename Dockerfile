@@ -13,7 +13,7 @@ RUN set -ex; \
       x11vnc \
       xterm \
       xvfb \
-      firefox
+      firefox-esr
 
 # Setup demo environment variables
 ENV HOME=/root \
