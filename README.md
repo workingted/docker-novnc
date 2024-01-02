@@ -1,4 +1,6 @@
 # noVNC Display Container
+[![Docker](https://github.com/workingted/docker-novnc/actions/workflows/docker-image.yml/badge.svg?branch=master)](https://github.com/workingted/docker-novnc/actions/workflows/docker-image.yml)
+
 ```
 ```
 This image is intended to be used for displaying X11 applications from other containers in a browser. A stand-alone demo as well as a [Version 2](https://docs.docker.com/compose/compose-file/#version-2) composition.
